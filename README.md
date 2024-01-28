@@ -6,14 +6,11 @@ Welcome to the SM Gaming Chrome Extension! This extension enhances your browsing
 
 
 ## Requirements
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/gcfcpohokifjldeandkfjoboemihipmb?label=AdBlocker)](https://chromewebstore.google.com/detail/gcfcpohokifjldeandkfjoboemihipmb?hl=en-GB)
 [![Chrome](https://img.shields.io/badge/Chrome-Required-brightgreen)](https://www.google.com/chrome/)
 [![Chrome Docs](https://img.shields.io/badge/Chrome%20Docs-Knowledge-blue)](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
-
-
-
 [![Website](https://img.shields.io/badge/Website-Game3rb-blue)](https://game3rb.com/)
 [![Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/wa-inc/Sm-Gaming/releases)
+
 ## Features ✨
 
 - **Ad-Blocker** 🚫: Say goodbye to annoying pop-ups and advertisements while browsing Game3rb.
