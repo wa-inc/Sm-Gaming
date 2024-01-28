@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "SM Gaming",
+  "version": "1.0",
+  "permissions": [
+      "activeTab"
+  ],
+  "content_scripts": [
+      {
+          "matches": ["*://game3rb.com/*", "*://1CLOUDFILE.COM/*"],
+          "js": ["content.js", "bypass.js", "ads.js"]
+      }
+  ]
+}
