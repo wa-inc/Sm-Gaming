@@ -5,8 +5,7 @@
 Welcome to the SM Gaming Chrome Extension! This extension enhances your browsing experience on Game3rb by providing additional features and functionalities.
 
 [![Website](https://img.shields.io/badge/Website-Game3rb-blue)](https://game3rb.com/)
-[![Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/OmarDev555/Sm-Gaming/releases/tag/v1.0)
-
+[![Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/wa-inc/Sm-Gaming/releases)
 ## Features ✨
 
 - **Ad-Blocker** 🚫: Say goodbye to annoying pop-ups and advertisements while browsing Game3rb.
