@@ -4,6 +4,14 @@
 
 Welcome to the SM Gaming Chrome Extension! This extension enhances your browsing experience on Game3rb by providing additional features and functionalities.
 
+
+## Requirements
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/gcfcpohokifjldeandkfjoboemihipmb?label=AdBlocker)](https://chromewebstore.google.com/detail/gcfcpohokifjldeandkfjoboemihipmb?hl=en-GB)
+[![Chrome](https://img.shields.io/badge/Chrome-Required-brightgreen)](https://www.google.com/chrome/)
+[![Chrome Docs](https://img.shields.io/badge/Chrome%20Docs-Knowledge-blue)](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+
+
+
 [![Website](https://img.shields.io/badge/Website-Game3rb-blue)](https://game3rb.com/)
 [![Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/wa-inc/Sm-Gaming/releases)
 ## Features ✨
@@ -31,9 +39,6 @@ Welcome to the SM Gaming Chrome Extension! This extension enhances your browsing
 4. Click on "Load unpacked" and select the directory where you cloned/downloaded the extension.
 5. The SM Gaming Chrome Extension should now be added to Chrome.
 
-## Usage 🎮
-
-Once the extension is added to Chrome, you can easily access its features by clicking on the extension icon in the Chrome toolbar.
 
 ## Disclaimer ℹ️
 
